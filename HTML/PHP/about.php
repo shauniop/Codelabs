@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About us!</title>
+		  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css">
+	<script scr="../js/jquery-3.2.1.min.js"></script>
+	<script src="../js/script.js" type="text/javascript"></script>
+	<script src="../bootstrap/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="../CSS/style.css">
+	<link rel="stylesheet" type="text/css" href="../CSS/font.css">
+</head>
+<body>
+	<div class="row">
+							<div class="col-md-12">
+								<div class="header">
+									<div class="title">
+										<a href="index.html">
+										<span class="h1 pull-left t1" style="font-family:bodoni-w01-poster,bodoni-poster-w10,fantasy;">CODELABS</span><span class="h2 pull-left t2" style="font-family:bodoni-w01-poster,bodoni-poster-w10,fantasy";>crce</span>	
+									</div>
+									</a>
+									<div class="pull-right">
+									<div style="padding-top: 20px;">
+										<ul>        	
+											<li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+										 	<li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>		
+											<li><a class="active" href="about.html">About</a></li>
+											<li><a href="comm.html">Community</a></li>
+											<li><a href="events.html">Events</a></li>
+										    <li><a href="index.html">Home</a></li>
+										</ul>
+									</div>
+										
+									</div>	
+								</div>
+							</div>
+						</div>
+<div class ="container">
+
+	<div class="row">
+		
+		<div class="col-md-12  ">
+			<div class="mainContent">
+		
+			
+				<div class="row"> 
+					<div class="col-md-12 ">
+						<div class="sec">
+							 <h1 id="h">Vision</h1>
+							 <hr id="hr1" style="color: black;">
+
+							 <p class="lead  desc img-responive">
+							 		 	<span class="bstart">“</span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTo help students of every  branch be better coder, better thinker and the best innovator for  a Bigger & Brighter Future<span class="bend">”</span>
+							 			
+							 </p>
+						</div>	
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Feedback</h1>
+						<hr>
+					</div>					
+				</div>
+				<div class="row">
+					<div class="col-md-offset-3 col-md-5  col-sm-12 col-xs-12">
+					
+						<div class="feeds">
+							<form class="pull-left">
+  								<div class="half left cf">
+ 								   <input type="text" id="input-name" placeholder="Name">
+  								   <input type="email" id="input-email" placeholder="Email address">
+  								   <input type="text" id="input-subject" placeholder="Subject">
+ 							    </div>
+ 								 <div class="half right cf">
+   									 <textarea name="message" type="text" id="input-message" placeholder="Message"></textarea>
+								 </div>  
+									  <input type="submit" value="Submit" id="input-submit">
+							</form>	
+						</div>
+						
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-6 col-xs-offset-1">
+						<div class="center block">
+						<div class="h1 ">Team</div>
+
+						</div>
+					</div>
+				
+
+				</div>
+				<hr>
+				<div class="row">
+			
+					<div class="col-xs-12 col-md-4 ">
+							
+						<div class=team>
+							<img id="team" src="../Images/maleavatar.jpeg" class="img-responive center block ">
+
+						</div>	
+						<div class="mem_info">
+							<div class="mem_name"> 
+							Samarth Gupta
+							</div>
+							<div class="mem_pos" style="padding-left: 30px;">
+								&nbsp&nbspChairperson
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-xs-12 ">
+						<div class="team">
+							<img id="team" src="../Images/femaleavatar.jpeg" class="img-responive ">
+
+						</div>
+						<div class="mem_info">
+							<div class="mem_name">
+							Melita Saldanha
+							</div>
+							<div class="mem_pos" style="padding-left: 30px;">
+								Vice-Chairperson
+							</div>
+						</div>
+
+					</div>
+					<div class="col-md-4 col-xs-12 ">
+						<div class="team">
+							<img id="team" src="../Images/maleavatar.jpeg" class="img-responive">
+
+						</div>
+						<div class="mem_info">
+							<div class="mem_name">
+							Akash Palgadhmal
+							</div>
+							<div class="mem_pos" style="padding-left: 30px;">
+								Vice-Chairperson
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<div class="row">
+			
+					<div class="col-md-4 col-xs-12 ">
+							
+						<div class=team>
+							<img id="team" src="../Images/maleavatar.jpeg" class="img-responive center block ">
+
+						</div>	
+						<div class="mem_info">
+							<div class="mem_name">
+							Bhanugoban Nadar
+							</div>
+							<div class="mem_pos" style="padding-left: 30px;">
+								Problem Setter/Tester
+							</div>
+						</div>
+
+					</div>
+					<div class="col-md-4 col-xs-12 ">
+						<div class="team">
+							<img id="team" src="../Images/maleavatar.jpeg" class="img-responive ">
+
+						</div>
+						<div class="mem_info" style="padding-left: 130px;">
+							<div class="mem_name">
+							Rathil Patel
+							</div>
+							<div class="mem_pos">
+							&nbsp&nbspWebmaster
+							</div>
+						</div>
+
+					</div>
+					<div class="col-md-4 col-xs-12 ">
+						<div class="team">
+							<img id="team" src="../Images/maleavatar.jpeg" class="img-responive">
+
+						</div>
+							<div class="mem_info" style="padding-left: 90px;">
+							<div class="mem_name">
+							Manupendra Tiwari
+							</div>
+							<div class="mem_pos" style="padding-left: 60px;">
+								DTP Head
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<div class="row">
+
+					<div class="col-md-4 ">
+							
+						<div class=team>
+							<img id="team" src="../Images/femaleavatar.jpeg" class="img-responive center block ">
+
+						</div>	
+						<div class="mem_info">
+							<div class="mem_name" style="padding-left: 25px"> 
+							Glenice D'sa
+							</div>
+							<div class="mem_pos" style="padding-left: 20px;">
+								&nbsp&nbspMarketing Head
+							</div>
+						</div>
+					</div>
+			
+					<div class="col-md-4 col-xs-12  col-md-offset-4">
+							
+						<div class=team>
+							<img id="team" src="../Images/femaleavatar.jpeg" class="img-responive center block ">
+
+						</div>	
+							<div class="mem_info">
+							<div class="mem_name">
+							Fascel Fernandes
+							</div>
+							<div class="mem_pos" style="padding-left: 30px">
+								&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPR Head
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+
+				<div class="row">
+			
+					<div class="col-md-4 col-xs-12 ">
+							
+						<div class=team>
+							<img id="team" src="../Images/maleavatar.jpeg" class="img-responive center block ">
+
+						</div>	
+							<div class="mem_info">
+							<div class="mem_name">
+							&nbsp&nbsp&nbsp&nbsp&nbspSumit Gupta
+							</div>
+							<div class="mem_pos" style="padding-left: 30px";>
+								Problem Setter/Testter
+							</div>
+						</div>
+
+					</div>
+					<div class="col-md-4 col-xs-12 ">
+						<div class="team">
+							<img id="team" src="../Images/femaleavatar.jpeg" class="img-responive ">
+
+						</div>
+							<div class="mem_info">
+							<div class="mem_name">
+							&nbsp&nbsp&nbsp&nbspIshpreet Dham
+							</div>
+							<div class="mem_pos">
+							&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSE Representive
+							</div>
+						</div>
+
+
+					</div>
+					<div class="col-md-4 col-xs-12 ">
+						<div class="team">
+							<img id="team" src="../Images/maleavatar.jpeg" class="img-responive">
+
+						</div>
+						<div class="mem_info" style="padding-left: 60px";>
+							<div class="mem_name">
+							&nbsp&nbsp&nbsp&nbsp&nbspClayton Pereira
+							</div>
+							<div class="mem_pos" style="padding-left: 30px">
+								&nbsp&nbsp&nbsp&nbsp&nbspSE Representive
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="sponsor">
+							
+
+						</div>
+
+					</div>
+				</div>
+
+
+
+
+<!-- MAIN CONTAINER-->
+
+			</div>
+		</div>
+	</div>
+</div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+</body>
+</html>
