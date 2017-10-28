@@ -5,7 +5,6 @@
 <?php require 'header.php' ?>
 </head>
 <body>
-<?php require 'nav.php' ?>
 <div class="container">						
 						<div class="row">
 							<div class="col-md-12">
