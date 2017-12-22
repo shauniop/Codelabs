@@ -2,7 +2,7 @@
  /* jQuery Pre loader
   -----------------------------------------------*/
 $(window).load(function(){
-    $('.preloader').fadeOut(1000); // set duration in brackets    
+    $('.preloader').fadeOut(000); // set duration in brackets    
 });
 
 
@@ -17,7 +17,7 @@ $(window).scroll(function() {
 });
 
 
-/* HTML document is loaded. DOM is ready. 
+/* HTML document is loaded. DOM is ready.
 -------------------------------------------*/
 $(document).ready(function() {
 
@@ -70,7 +70,7 @@ $(document).ready(function() {
         } else {
           $('.go-top').fadeOut(200);
         }
-        });   
+        });
         // Animate the scroll to top
       $('.go-top').click(function(event) {
         event.preventDefault();
@@ -83,4 +83,3 @@ $(document).ready(function() {
   new WOW({ mobile: false }).init();
 
   });
-
