@@ -70,6 +70,22 @@
   </div>
 		</div>
 
+		<div class="col s12 m5">
+
+  <div class="card">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="Images/synergy_cardf.jpg">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4">Synergy 2K17<i class="material-icons right">more_vert</i></span>
+      <p> <a class="waves-effect waves-light btn">Know more</a></p>
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4">Synergy 2K17<i class="material-icons right">close</i></span>
+      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+    </div>
+  </div>
+		</div>
 		<div class="col s12 m5 offset-m1">
 			<div class="card">
     <div class="card-image waves-effect waves-block waves-light">
