@@ -1,2 +1,4 @@
 # Codelabs
-Webiste for the Council
+Webiste for Codelabs CRCE
+
+© Rathil Vasani
